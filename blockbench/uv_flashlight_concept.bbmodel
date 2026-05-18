@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "free",
+    "box_uv": true
+  },
+  "name": "uv_flashlight_concept",
+  "resolution": {
+    "width": 16,
+    "height": 16
+  },
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        4,
+        6,
+        6
+      ],
+      "to": [
+        12,
+        10,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "color": 0
+    },
+    {
+      "name": "head_lens",
+      "from": [
+        9,
+        5,
+        5
+      ],
+      "to": [
+        14,
+        11,
+        11
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "color": 1
+    },
+    {
+      "name": "grip",
+      "from": [
+        3,
+        2,
+        6.5
+      ],
+      "to": [
+        6,
+        7,
+        9.5
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "color": 2
+    },
+    {
+      "name": "button",
+      "from": [
+        6,
+        10,
+        7
+      ],
+      "to": [
+        8,
+        11,
+        9
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "color": 3
+    }
+  ],
+  "outliner": [
+    "body",
+    "head_lens",
+    "grip",
+    "button"
+  ],
+  "textures": []
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "deadcity",
+  "version": "${version}",
+  "name": "Dead City: Nightfall Release",
+  "description": "A Dying Light inspired Fabric survival-horror mod prototype with UV tools, infected enemies and dangerous nights.",
+  "authors": [
+    "besykk",
+    "ChatGPT"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/deadcity/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.deadcity.nightfall.DeadCityNightfall"
+    ],
+    "client": [
+      "com.deadcity.nightfall.client.DeadCityNightfallClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

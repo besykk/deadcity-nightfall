@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MIE",
+    "IPI",
+    " S "
+  ],
+  "key": {
+    "M": {
+      "item": "deadcity:metal_parts"
+    },
+    "E": {
+      "item": "deadcity:electronics"
+    },
+    "P": {
+      "item": "deadcity:police_pistol"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "deadcity:smg",
+    "count": 1
+  }
+}

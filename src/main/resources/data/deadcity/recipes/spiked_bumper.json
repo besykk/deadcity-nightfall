@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "MMM",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "deadcity:scrap"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "deadcity:metal_parts"
+    }
+  },
+  "result": {
+    "item": "deadcity:spiked_bumper",
+    "count": 1
+  }
+}

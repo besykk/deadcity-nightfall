@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RBR",
+    "EUE",
+    "RBR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "deadcity:battery_cell"
+    },
+    "E": {
+      "item": "deadcity:electronics"
+    },
+    "U": {
+      "item": "deadcity:uv_flare"
+    }
+  },
+  "result": {
+    "item": "deadcity:uv_trap",
+    "count": 2
+  }
+}

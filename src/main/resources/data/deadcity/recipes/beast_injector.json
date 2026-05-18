@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadcity:mutagen_sample"
+    },
+    {
+      "item": "deadcity:chemicals"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "deadcity:beast_injector",
+    "count": 1
+  }
+}

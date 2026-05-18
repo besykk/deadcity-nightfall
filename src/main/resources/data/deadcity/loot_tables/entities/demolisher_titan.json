@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deadcity:titan_bone",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadcity:metal_parts",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadcity:mutagen_sample",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    " M ",
+    " S "
+  ],
+  "key": {
+    "T": {
+      "item": "deadcity:titan_bone"
+    },
+    "M": {
+      "item": "deadcity:metal_parts"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "deadcity:titan_crusher",
+    "count": 1
+  }
+}

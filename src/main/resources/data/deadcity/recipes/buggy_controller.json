@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "RBR",
+    " M "
+  ],
+  "key": {
+    "E": {
+      "item": "deadcity:electronics"
+    },
+    "C": {
+      "item": "deadcity:car_battery"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "deadcity:buggy_parts"
+    },
+    "M": {
+      "item": "deadcity:metal_parts"
+    }
+  },
+  "result": {
+    "item": "deadcity:buggy_controller",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deadcity:item/mutant_spitter_spawn_egg"
+  }
+}

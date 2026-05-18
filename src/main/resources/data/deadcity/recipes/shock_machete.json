@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadcity:reinforced_machete"
+    },
+    {
+      "item": "deadcity:electronics"
+    },
+    {
+      "item": "deadcity:wiring"
+    }
+  ],
+  "result": {
+    "item": "deadcity:shock_machete",
+    "count": 1
+  }
+}

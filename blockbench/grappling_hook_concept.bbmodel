@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "format_version": "4.9",
+    "model_format": "free"
+  },
+  "name": "deadcity_grappling_hook_concept",
+  "resolution": {
+    "width": 16,
+    "height": 16
+  },
+  "elements": [
+    {
+      "name": "handle",
+      "from": [
+        7,
+        1,
+        7
+      ],
+      "to": [
+        9,
+        10,
+        9
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "crossbar",
+      "from": [
+        5,
+        10,
+        7
+      ],
+      "to": [
+        11,
+        12,
+        9
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "left_hook",
+      "from": [
+        4,
+        12,
+        7
+      ],
+      "to": [
+        6,
+        15,
+        9
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "right_hook",
+      "from": [
+        10,
+        12,
+        7
+      ],
+      "to": [
+        12,
+        15,
+        9
+      ],
+      "rotation": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

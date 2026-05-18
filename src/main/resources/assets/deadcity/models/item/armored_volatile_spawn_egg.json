@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "deadcity:item/armored_volatile_spawn_egg"
+  }
+}

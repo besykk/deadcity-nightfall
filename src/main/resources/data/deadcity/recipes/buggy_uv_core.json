@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadcity:uv_headlights"
+    },
+    {
+      "item": "deadcity:electronics"
+    },
+    {
+      "item": "deadcity:battery_cell"
+    }
+  ],
+  "result": {
+    "item": "deadcity:buggy_uv_core",
+    "count": 1
+  }
+}

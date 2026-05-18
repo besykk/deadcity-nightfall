@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CWC",
+    "S S",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "deadcity:cloth"
+    },
+    "W": {
+      "item": "deadcity:wiring"
+    },
+    "S": {
+      "item": "deadcity:scrap"
+    }
+  },
+  "result": {
+    "item": "deadcity:glider_rig",
+    "count": 1
+  }
+}

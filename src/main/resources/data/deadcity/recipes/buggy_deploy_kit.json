@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TBT",
+    "EPE",
+    "RCR"
+  ],
+  "key": {
+    "T": {
+      "item": "deadcity:reinforced_tires"
+    },
+    "B": {
+      "item": "deadcity:car_battery"
+    },
+    "E": {
+      "item": "deadcity:engine_parts"
+    },
+    "P": {
+      "item": "deadcity:buggy_parts"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "deadcity:buggy_deploy_kit",
+    "count": 1
+  }
+}

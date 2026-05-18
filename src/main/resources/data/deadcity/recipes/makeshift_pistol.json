@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ME ",
+    " PI",
+    "   "
+  ],
+  "key": {
+    "M": {
+      "item": "deadcity:metal_parts"
+    },
+    "E": {
+      "item": "deadcity:electronics"
+    },
+    "P": {
+      "item": "deadcity:scrap"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "deadcity:makeshift_pistol",
+    "count": 1
+  }
+}

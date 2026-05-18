@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    " R ",
+    " S "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "deadcity:uv_flare",
+    "count": 2
+  }
+}

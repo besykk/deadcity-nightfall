@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": true
+  },
+  "name": "makeshift_pistol",
+  "resolution": {
+    "width": 64,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "slide",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        4,
+        8,
+        6
+      ],
+      "to": [
+        13,
+        10,
+        10
+      ],
+      "autouv": 1,
+      "color": 0,
+      "uuid": "makeshift_pistol_000",
+      "faces": {
+        "north": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "barrel",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        12,
+        8.4,
+        7
+      ],
+      "to": [
+        16,
+        9.6,
+        9
+      ],
+      "autouv": 1,
+      "color": 0,
+      "uuid": "makeshift_pistol_001",
+      "faces": {
+        "north": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "frame",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        4,
+        6,
+        6
+      ],
+      "to": [
+        11,
+        8,
+        10
+      ],
+      "autouv": 1,
+      "color": 0,
+      "uuid": "makeshift_pistol_002",
+      "faces": {
+        "north": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "grip",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        5,
+        2,
+        7
+      ],
+      "to": [
+        8,
+        6,
+        10
+      ],
+      "autouv": 1,
+      "color": 0,
+      "uuid": "makeshift_pistol_003",
+      "faces": {
+        "north": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      },
+      "origin": [
+        6,
+        5,
+        8
+      ],
+      "rotation": [
+        0,
+        0,
+        -22.5
+      ]
+    },
+    {
+      "name": "trigger guard",
+      "box_uv": true,
+      "rescale": false,
+      "locked": false,
+      "from": [
+        8,
+        4,
+        6.8
+      ],
+      "to": [
+        11,
+        6,
+        9.2
+      ],
+      "autouv": 1,
+      "color": 0,
+      "uuid": "makeshift_pistol_004",
+      "faces": {
+        "north": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "east": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "west": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "up": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        },
+        "down": {
+          "texture": 0,
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ]
+        }
+      }
+    }
+  ],
+  "outliner": [
+    "makeshift_pistol_000",
+    "makeshift_pistol_001",
+    "makeshift_pistol_002",
+    "makeshift_pistol_003",
+    "makeshift_pistol_004"
+  ],
+  "textures": [
+    {
+      "path": "../src/main/resources/assets/deadcity/textures/item/makeshift_pistol.png",
+      "name": "makeshift_pistol.png",
+      "folder": "item",
+      "namespace": "deadcity",
+      "id": "0",
+      "particle": false,
+      "render_mode": "default",
+      "visible": true,
+      "mode": "bitmap",
+      "saved": true,
+      "uuid": "texture_makeshift_pistol"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadcity:metal_parts"
+    },
+    {
+      "item": "deadcity:duct_tape"
+    },
+    {
+      "item": "deadcity:electronics"
+    }
+  ],
+  "result": {
+    "item": "deadcity:buggy_repair_kit",
+    "count": 1
+  }
+}

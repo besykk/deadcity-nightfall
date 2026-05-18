@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GUG",
+    "EBE",
+    "III"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "U": {
+      "item": "deadcity:uv_flashlight"
+    },
+    "E": {
+      "item": "deadcity:electronics"
+    },
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "deadcity:safe_zone_beacon",
+    "count": 1
+  }
+}

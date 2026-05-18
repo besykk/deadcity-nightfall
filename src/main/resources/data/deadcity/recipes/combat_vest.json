@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "CMC",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "deadcity:cloth"
+    },
+    "M": {
+      "item": "deadcity:metal_parts"
+    }
+  },
+  "result": {
+    "item": "deadcity:combat_vest",
+    "count": 1
+  }
+}

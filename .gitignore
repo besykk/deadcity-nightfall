@@ -1,0 +1,12 @@
+.gradle/
+build/
+out/
+.idea/
+*.iml
+
+run/
+logs/
+crash-reports/
+
+*.class
+*.jar

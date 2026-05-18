@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "deadcity:gunpowder_blend"
+    }
+  ],
+  "result": {
+    "item": "deadcity:magnum_rounds",
+    "count": 6
+  }
+}

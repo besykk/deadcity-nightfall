@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "java_block",
+    "box_uv": true
+  },
+  "name": "scout_buggy_concept",
+  "resolution": {
+    "width": 64,
+    "height": 64
+  },
+  "elements": [
+    {
+      "name": "body",
+      "from": [
+        -8,
+        2,
+        -5
+      ],
+      "to": [
+        8,
+        7,
+        5
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          0,
+          0
+        ]
+      },
+      "faces": {}
+    },
+    {
+      "name": "cabin",
+      "from": [
+        -4,
+        7,
+        -3
+      ],
+      "to": [
+        4,
+        12,
+        3
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          0,
+          0,
+          0
+        ]
+      },
+      "faces": {}
+    },
+    {
+      "name": "front_wheel_l",
+      "from": [
+        -9,
+        0,
+        -6
+      ],
+      "to": [
+        -5,
+        4,
+        -2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          0,
+          0,
+          0
+        ]
+      },
+      "faces": {}
+    },
+    {
+      "name": "front_wheel_r",
+      "from": [
+        5,
+        0,
+        -6
+      ],
+      "to": [
+        9,
+        4,
+        -2
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          0,
+          0,
+          0
+        ]
+      },
+      "faces": {}
+    },
+    {
+      "name": "back_wheel_l",
+      "from": [
+        -9,
+        0,
+        2
+      ],
+      "to": [
+        -5,
+        4,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          0,
+          0,
+          0
+        ]
+      },
+      "faces": {}
+    },
+    {
+      "name": "back_wheel_r",
+      "from": [
+        5,
+        0,
+        2
+      ],
+      "to": [
+        9,
+        4,
+        6
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "x",
+        "origin": [
+          0,
+          0,
+          0
+        ]
+      },
+      "faces": {}
+    }
+  ]
+}

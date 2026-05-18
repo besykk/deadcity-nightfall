@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    " ES",
+    "S  "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "deadcity:electronics"
+    },
+    "S": {
+      "item": "deadcity:scrap"
+    }
+  },
+  "result": {
+    "item": "deadcity:assault_rifle",
+    "count": 1
+  }
+}

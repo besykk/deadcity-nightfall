@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deadcity:improvised_cleaver"
+    },
+    {
+      "item": "deadcity:chemicals"
+    },
+    {
+      "item": "deadcity:alcohol"
+    }
+  ],
+  "result": {
+    "item": "deadcity:flame_cleaver",
+    "count": 1
+  }
+}

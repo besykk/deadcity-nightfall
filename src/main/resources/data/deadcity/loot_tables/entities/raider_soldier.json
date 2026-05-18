@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deadcity:ammo_9mm",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadcity:scrap",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "deadcity:faction_token",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
