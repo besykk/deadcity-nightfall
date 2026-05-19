@@ -8,7 +8,6 @@
 - исправлен `MutantSpitterEntity`: `getTarget()` уже возвращает `LivingEntity`, поэтому pattern matching `instanceof LivingEntity target` заменён на обычную проверку `target != null`;
 - сохранены realistic low-poly модели оружия и плоские ресурсы из v5.1.
 
-Запуск: IntelliJ IDEA -> Gradle -> Tasks -> fabric -> runClient.
 
 # Dead City: Nightfall v5.1 Realistic Weapons & Resources
 
@@ -48,57 +47,6 @@ Java: **17**
 - Лут-таблицы и рецепты для ключевых новых вещей.
 - 3D item-модели почти для всех важных предметов; мелкие ресурсы оставлены плоскими.
 - Blockbench-заготовки для багги и оружия.
-
-## Запуск в IntelliJ
-
-1. Распакуй архив.
-2. Открой папку `deadcity-nightfall-v5.0-release` в IntelliJ IDEA.
-3. `Settings -> Build Tools -> Gradle -> Gradle JVM = Java 17`.
-4. Дождись Gradle import.
-5. Запускай `Gradle -> Tasks -> fabric -> runClient`.
-
-## Проверка в игре
-
-```mcfunction
-/gamemode creative
-/time set night
-/summon deadcity:infected_runner
-/summon deadcity:screamer
-/summon deadcity:mutant_spitter
-/summon deadcity:demolisher_titan
-/summon deadcity:alpha_volatile
-/summon deadcity:raider_soldier
-/summon deadcity:civilian
-/summon deadcity:trader_survivor
-```
-
-## Как собрать jar
-
-В IntelliJ справа открой Gradle:
-
-```text
-Tasks -> build -> build
-```
-
-Готовый `.jar` будет в:
-
-```text
-build/libs/
-```
-
-## Как перенести в обычный Minecraft
-
-1. Установи Fabric Loader для Minecraft 1.20.1.
-2. Скачай Fabric API для 1.20.1.
-3. Закинь в `.minecraft/mods`:
-   - `deadcity-nightfall-5.0.0-release.jar`
-   - Fabric API `.jar`
-4. Запусти профиль Fabric 1.20.1.
-
-## Важно
-
-Я не могу запустить Minecraft-клиент прямо внутри этой среды. Я исправил известную ошибку с `SoundEvents...value()` и собрал полный проект-архив. Если IntelliJ покажет ещё одну ошибку компиляции — скинь скрин, и следующей версией будет точечный фикс `v5.0.1`.
-
 
 ## v5.1 asset update
 
